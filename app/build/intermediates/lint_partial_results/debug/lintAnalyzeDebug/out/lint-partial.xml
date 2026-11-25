@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.12.0" type="partial_results">
+    <map id="UnsafeImplicitIntentLaunch">
+            <map id="actionsSent">
+                    <map id="android.intent.action.VIEW (used to start an activity)">
+                        <location id="0"
+                            file="${:app*debug*MAIN*sourceProvider*0*javaDir*0}/com/clipboardmanager/app/clipboard/ClipboardHelper.kt"
+                            line="48"
+                            column="26"
+                            startOffset="1791"
+                            endLine="48"
+                            endColumn="75"
+                            endOffset="1840"/>
+                    </map>
+            </map>
+    </map>
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.clipboardmanager.app.MainActivity"
+                    boolean="true"/>
+                <entry
+                    name="com.clipboardmanager.app.ProcessTextActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="drawable[ic_tile_clipboard(U),ic_launcher_background(U),ic_launcher_foreground(U)],mipmap[ic_launcher(U),ic_launcher_round(U)],string[app_name(U),save_to_clipboard(U),tile_label(U),monitor_channel_name(U),monitor_channel_desc(U)],style[Theme_ClipboardManager(U),Theme_ClipboardManager_Transparent(U)];3^1^2,4^1^2;;;"/>
+    </map>
+
+</incidents>

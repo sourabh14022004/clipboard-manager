@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clipboard Manager</string>
+    <string name="monitor_channel_desc">Shows a quick-save notification for your clipboard manager</string>
+    <string name="monitor_channel_name">Clipboard Quick Capture</string>
+    <string name="save_to_clipboard">Save to Clipboard</string>
+    <string name="tile_label">Save Clipboard</string>
+    <style name="Theme.ClipboardManager" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:navigationBarColor">#F6F2E9</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.ClipboardManager.Transparent" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>

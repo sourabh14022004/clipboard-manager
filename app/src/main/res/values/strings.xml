@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clipboard Manager</string>
+    <string name="save_to_clipboard">Save to Clipboard</string>
+    <string name="tile_label">Save Clipboard</string>
+    <string name="monitor_channel_name">Clipboard Quick Capture</string>
+    <string name="monitor_channel_desc">Shows a quick-save notification for your clipboard manager</string>
+</resources>

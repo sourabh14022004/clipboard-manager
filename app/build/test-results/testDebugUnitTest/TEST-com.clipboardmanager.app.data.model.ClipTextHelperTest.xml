@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clipboardmanager.app.data.model.ClipTextHelperTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-11-25T08:15:53.677Z" hostname="THEROX" time="0.088">
+  <properties/>
+  <testcase name="generateSmartTitle formats URL host cleanly" classname="com.clipboardmanager.app.data.model.ClipTextHelperTest" time="0.053"/>
+  <testcase name="detectClipType identifies markdown checklist lines as CHECKLIST" classname="com.clipboardmanager.app.data.model.ClipTextHelperTest" time="0.002"/>
+  <testcase name="backup payload encodes and decodes cleanly" classname="com.clipboardmanager.app.data.model.ClipTextHelperTest" time="0.031"/>
+  <testcase name="detectClipType identifies URLs as LINK" classname="com.clipboardmanager.app.data.model.ClipTextHelperTest" time="0.0"/>
+  <testcase name="isLongText checks length and line count thresholds" classname="com.clipboardmanager.app.data.model.ClipTextHelperTest" time="0.0"/>
+  <testcase name="checklist JSON round trip preserves items" classname="com.clipboardmanager.app.data.model.ClipTextHelperTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,233 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.clipboardmanager.app"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="36" />
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:4:5-77
+11-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:4:22-74
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+12-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:5:5-87
+12-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:5:22-84
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:6:5-77
+13-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:6:22-74
+14
+15    <permission
+15-->[androidx.core:core:1.16.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e6567a2c715ed0709f52e0b7918eefd\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+16        android:name="com.clipboardmanager.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.16.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e6567a2c715ed0709f52e0b7918eefd\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.16.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e6567a2c715ed0709f52e0b7918eefd\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.clipboardmanager.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.16.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e6567a2c715ed0709f52e0b7918eefd\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.16.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e6567a2c715ed0709f52e0b7918eefd\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:8:5-60:19
+22        android:name="com.clipboardmanager.app.ClipboardApp"
+22-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:9:9-37
+23        android:allowBackup="true"
+23-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:10:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.16.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e6567a2c715ed0709f52e0b7918eefd\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+25        android:debuggable="true"
+26        android:extractNativeLibs="false"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:11:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:12:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:13:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:14:9-35
+31        android:theme="@style/Theme.ClipboardManager" >
+31-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:15:9-54
+32        <activity
+32-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:17:9-31:20
+33            android:name="com.clipboardmanager.app.MainActivity"
+33-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:18:13-41
+34            android:exported="true"
+34-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:19:13-36
+35            android:launchMode="singleTop"
+35-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:20:13-43
+36            android:windowSoftInputMode="adjustResize" >
+36-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:21:13-55
+37            <intent-filter>
+37-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:22:13-25:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:23:17-69
+38-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:23:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:24:17-77
+40-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:24:27-74
+41            </intent-filter>
+42            <intent-filter>
+42-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:26:13-30:29
+43                <action android:name="android.intent.action.SEND" />
+43-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:27:17-69
+43-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:27:25-66
+44
+45                <category android:name="android.intent.category.DEFAULT" />
+45-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:28:17-76
+45-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:28:27-73
+46
+47                <data android:mimeType="text/plain" />
+47-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:29:17-55
+47-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:29:23-52
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:33:9-43:20
+51            android:name="com.clipboardmanager.app.ProcessTextActivity"
+51-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:34:13-48
+52            android:exported="true"
+52-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:35:13-36
+53            android:label="@string/save_to_clipboard"
+53-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:36:13-54
+54            android:theme="@style/Theme.ClipboardManager.Transparent" >
+54-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:37:13-70
+55            <intent-filter>
+55-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:38:13-42:29
+56                <action android:name="android.intent.action.PROCESS_TEXT" />
+56-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:39:17-77
+56-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:39:25-74
+57
+58                <category android:name="android.intent.category.DEFAULT" />
+58-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:28:17-76
+58-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:28:27-73
+59
+60                <data android:mimeType="text/plain" />
+60-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:29:17-55
+60-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:29:23-52
+61            </intent-filter>
+62        </activity>
+63
+64        <service
+64-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:45:9-48:56
+65            android:name="com.clipboardmanager.app.service.ClipboardMonitorService"
+65-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:46:13-60
+66            android:exported="false"
+66-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:47:13-37
+67            android:foregroundServiceType="dataSync" />
+67-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:48:13-53
+68        <service
+68-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:50:9-59:19
+69            android:name="com.clipboardmanager.app.service.ClipboardTileService"
+69-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:51:13-57
+70            android:exported="true"
+70-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:52:13-36
+71            android:icon="@drawable/ic_tile_clipboard"
+71-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:53:13-55
+72            android:label="@string/tile_label"
+72-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:54:13-47
+73            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+73-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:55:13-77
+74            <intent-filter>
+74-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:56:13-58:29
+75                <action android:name="android.service.quicksettings.action.QS_TILE" />
+75-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:57:17-87
+75-->C:\Users\sorx\Desktop\clipboard management\app\src\main\AndroidManifest.xml:57:25-84
+76            </intent-filter>
+77        </service>
+78
+79        <activity
+79-->[androidx.compose.ui:ui-tooling-android:1.8.1] C:\Users\sorx\.gradle\caches\8.13\transforms\1e434e6b1394f9bc3ef4c3b537ec1e30\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+80            android:name="androidx.compose.ui.tooling.PreviewActivity"
+80-->[androidx.compose.ui:ui-tooling-android:1.8.1] C:\Users\sorx\.gradle\caches\8.13\transforms\1e434e6b1394f9bc3ef4c3b537ec1e30\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+81            android:exported="true" />
+81-->[androidx.compose.ui:ui-tooling-android:1.8.1] C:\Users\sorx\.gradle\caches\8.13\transforms\1e434e6b1394f9bc3ef4c3b537ec1e30\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+82
+83        <provider
+83-->[androidx.emoji2:emoji2:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1ceb63d232d908d9ec93ec95c1bf5481\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+84            android:name="androidx.startup.InitializationProvider"
+84-->[androidx.emoji2:emoji2:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1ceb63d232d908d9ec93ec95c1bf5481\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+85            android:authorities="com.clipboardmanager.app.androidx-startup"
+85-->[androidx.emoji2:emoji2:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1ceb63d232d908d9ec93ec95c1bf5481\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+86            android:exported="false" >
+86-->[androidx.emoji2:emoji2:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1ceb63d232d908d9ec93ec95c1bf5481\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+87            <meta-data
+87-->[androidx.emoji2:emoji2:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1ceb63d232d908d9ec93ec95c1bf5481\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+88                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+88-->[androidx.emoji2:emoji2:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1ceb63d232d908d9ec93ec95c1bf5481\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+89                android:value="androidx.startup" />
+89-->[androidx.emoji2:emoji2:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1ceb63d232d908d9ec93ec95c1bf5481\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+90            <meta-data
+90-->[androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\sorx\.gradle\caches\8.13\transforms\21bdfefa724c58e3f8500e8844b41d2f\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:29:13-31:52
+91                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+91-->[androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\sorx\.gradle\caches\8.13\transforms\21bdfefa724c58e3f8500e8844b41d2f\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:30:17-78
+92                android:value="androidx.startup" />
+92-->[androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\sorx\.gradle\caches\8.13\transforms\21bdfefa724c58e3f8500e8844b41d2f\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:31:17-49
+93            <meta-data
+93-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+94                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+94-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+95                android:value="androidx.startup" />
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+96        </provider>
+97
+98        <activity
+98-->[androidx.compose.ui:ui-test-manifest:1.8.1] C:\Users\sorx\.gradle\caches\8.13\transforms\af30ed358c970f5777020098d93785c6\transformed\ui-test-manifest-1.8.1\AndroidManifest.xml:23:9-26:79
+99            android:name="androidx.activity.ComponentActivity"
+99-->[androidx.compose.ui:ui-test-manifest:1.8.1] C:\Users\sorx\.gradle\caches\8.13\transforms\af30ed358c970f5777020098d93785c6\transformed\ui-test-manifest-1.8.1\AndroidManifest.xml:24:13-63
+100            android:exported="true"
+100-->[androidx.compose.ui:ui-test-manifest:1.8.1] C:\Users\sorx\.gradle\caches\8.13\transforms\af30ed358c970f5777020098d93785c6\transformed\ui-test-manifest-1.8.1\AndroidManifest.xml:25:13-36
+101            android:theme="@android:style/Theme.Material.Light.NoActionBar" />
+101-->[androidx.compose.ui:ui-test-manifest:1.8.1] C:\Users\sorx\.gradle\caches\8.13\transforms\af30ed358c970f5777020098d93785c6\transformed\ui-test-manifest-1.8.1\AndroidManifest.xml:26:13-76
+102
+103        <service
+103-->[androidx.room:room-runtime-android:2.7.1] C:\Users\sorx\.gradle\caches\8.13\transforms\fd65a35a5baac2ffba5a24edbd3583a3\transformed\room-runtime-release\AndroidManifest.xml:24:9-28:63
+104            android:name="androidx.room.MultiInstanceInvalidationService"
+104-->[androidx.room:room-runtime-android:2.7.1] C:\Users\sorx\.gradle\caches\8.13\transforms\fd65a35a5baac2ffba5a24edbd3583a3\transformed\room-runtime-release\AndroidManifest.xml:25:13-74
+105            android:directBootAware="true"
+105-->[androidx.room:room-runtime-android:2.7.1] C:\Users\sorx\.gradle\caches\8.13\transforms\fd65a35a5baac2ffba5a24edbd3583a3\transformed\room-runtime-release\AndroidManifest.xml:26:13-43
+106            android:exported="false" />
+106-->[androidx.room:room-runtime-android:2.7.1] C:\Users\sorx\.gradle\caches\8.13\transforms\fd65a35a5baac2ffba5a24edbd3583a3\transformed\room-runtime-release\AndroidManifest.xml:27:13-37
+107
+108        <receiver
+108-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+109            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+109-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+110            android:directBootAware="false"
+110-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+111            android:enabled="true"
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+112            android:exported="true"
+112-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+113            android:permission="android.permission.DUMP" >
+113-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+114            <intent-filter>
+114-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+115                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+115-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+116            </intent-filter>
+117            <intent-filter>
+117-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+118                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+118-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+119            </intent-filter>
+120            <intent-filter>
+120-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+121                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+121-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+122            </intent-filter>
+123            <intent-filter>
+123-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+124                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+124-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+125            </intent-filter>
+126        </receiver>
+127    </application>
+128
+129</manifest>

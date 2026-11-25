@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clipboard board -->
+    <path
+        android:fillColor="#FFFDF8"
+        android:pathData="M30,28 L78,28 A6,6 0 0,1 84,34 L84,82 A6,6 0 0,1 78,88 L30,88 A6,6 0 0,1 24,82 L24,34 A6,6 0 0,1 30,28 Z" />
+    <!-- Top clip -->
+    <path
+        android:fillColor="#D9E8E4"
+        android:pathData="M42,22 L66,22 A4,4 0 0,1 70,26 L70,32 A4,4 0 0,1 66,36 L42,36 A4,4 0 0,1 38,32 L38,26 A4,4 0 0,1 42,22 Z" />
+    <!-- Pastel mini sticky notes inside -->
+    <path
+        android:fillColor="#DCF0FF"
+        android:pathData="M32,44 L52,44 A3,3 0 0,1 55,47 L55,61 A3,3 0 0,1 52,64 L32,64 A3,3 0 0,1 29,61 L29,47 A3,3 0 0,1 32,44 Z" />
+    <path
+        android:fillColor="#FFE2EB"
+        android:pathData="M60,44 L76,44 A3,3 0 0,1 79,47 L79,67 A3,3 0 0,1 76,70 L60,70 A3,3 0 0,1 57,67 L57,47 A3,3 0 0,1 60,44 Z" />
+    <path
+        android:fillColor="#CFF9F9"
+        android:pathData="M32,68 L52,68 A3,3 0 0,1 55,71 L55,79 A3,3 0 0,1 52,82 L32,82 A3,3 0 0,1 29,79 L29,71 A3,3 0 0,1 32,68 Z" />
+    <!-- Red pushpin dot -->
+    <path
+        android:fillColor="#D93228"
+        android:pathData="M75,40 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+    <path
+        android:fillColor="#FF6B61"
+        android:pathData="M74,38.5 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+</vector>

@@ -1,0 +1,60 @@
+com.clipboardmanager.app-datastore-core-release-0 C:\Users\sorx\.gradle\caches\8.13\transforms\01eb3371ca4f959cca75b31dffc0a501\transformed\datastore-core-release\res
+com.clipboardmanager.app-activity-ktx-1.10.1-1 C:\Users\sorx\.gradle\caches\8.13\transforms\0a07cfcefe04afb1b8e39439e1deb927\transformed\activity-ktx-1.10.1\res
+com.clipboardmanager.app-animation-release-2 C:\Users\sorx\.gradle\caches\8.13\transforms\10a6698a5a4fff048b479a73d41d2e33\transformed\animation-release\res
+com.clipboardmanager.app-startup-runtime-1.1.1-3 C:\Users\sorx\.gradle\caches\8.13\transforms\1510b19beedecbf7fcfd6df3d4c732e7\transformed\startup-runtime-1.1.1\res
+com.clipboardmanager.app-datastore-preferences-release-4 C:\Users\sorx\.gradle\caches\8.13\transforms\1741c23ab3970dd6fb0990e8b4918d9e\transformed\datastore-preferences-release\res
+com.clipboardmanager.app-ui-tooling-data-release-5 C:\Users\sorx\.gradle\caches\8.13\transforms\1873eeda77a220dc3404fa8ae63f0564\transformed\ui-tooling-data-release\res
+com.clipboardmanager.app-activity-1.10.1-6 C:\Users\sorx\.gradle\caches\8.13\transforms\1c26196001f0d4002c6f392ca23f3d14\transformed\activity-1.10.1\res
+com.clipboardmanager.app-ui-util-release-7 C:\Users\sorx\.gradle\caches\8.13\transforms\1c75880ec362abee6bd6f72190f881d5\transformed\ui-util-release\res
+com.clipboardmanager.app-emoji2-1.4.0-8 C:\Users\sorx\.gradle\caches\8.13\transforms\1ceb63d232d908d9ec93ec95c1bf5481\transformed\emoji2-1.4.0\res
+com.clipboardmanager.app-profileinstaller-1.4.0-9 C:\Users\sorx\.gradle\caches\8.13\transforms\1e29130cfcfe565362194f07b3dbbb23\transformed\profileinstaller-1.4.0\res
+com.clipboardmanager.app-ui-tooling-release-10 C:\Users\sorx\.gradle\caches\8.13\transforms\1e434e6b1394f9bc3ef4c3b537ec1e30\transformed\ui-tooling-release\res
+com.clipboardmanager.app-core-1.16.0-11 C:\Users\sorx\.gradle\caches\8.13\transforms\1e6567a2c715ed0709f52e0b7918eefd\transformed\core-1.16.0\res
+com.clipboardmanager.app-runtime-saveable-release-12 C:\Users\sorx\.gradle\caches\8.13\transforms\1f2679e30f10c5a351c13bde63e60b46\transformed\runtime-saveable-release\res
+com.clipboardmanager.app-lifecycle-process-2.9.0-13 C:\Users\sorx\.gradle\caches\8.13\transforms\21bdfefa724c58e3f8500e8844b41d2f\transformed\lifecycle-process-2.9.0\res
+com.clipboardmanager.app-lifecycle-viewmodel-ktx-2.9.0-14 C:\Users\sorx\.gradle\caches\8.13\transforms\27639aa2b20992af1cdfca273bd0f1b3\transformed\lifecycle-viewmodel-ktx-2.9.0\res
+com.clipboardmanager.app-runtime-release-15 C:\Users\sorx\.gradle\caches\8.13\transforms\2921201abf749b9b8799537b8e97dfcd\transformed\runtime-release\res
+com.clipboardmanager.app-ui-release-16 C:\Users\sorx\.gradle\caches\8.13\transforms\2a7e0d34e24a38c0c79d16a0506f0c2e\transformed\ui-release\res
+com.clipboardmanager.app-lifecycle-viewmodel-release-17 C:\Users\sorx\.gradle\caches\8.13\transforms\2b13b28e3a8335dcab4e40334b57050a\transformed\lifecycle-viewmodel-release\res
+com.clipboardmanager.app-customview-poolingcontainer-1.0.0-18 C:\Users\sorx\.gradle\caches\8.13\transforms\30159fc5f3d589d265f22dedfbaaf8ed\transformed\customview-poolingcontainer-1.0.0\res
+com.clipboardmanager.app-material3-release-19 C:\Users\sorx\.gradle\caches\8.13\transforms\3426eaaf9022dbd3b286beb206a70e23\transformed\material3-release\res
+com.clipboardmanager.app-tracing-1.2.0-20 C:\Users\sorx\.gradle\caches\8.13\transforms\34aad3304805cb977e54dae51f4a504f\transformed\tracing-1.2.0\res
+com.clipboardmanager.app-lifecycle-runtime-compose-release-21 C:\Users\sorx\.gradle\caches\8.13\transforms\3fbe7b7ec2bb530bc11fb73c00409069\transformed\lifecycle-runtime-compose-release\res
+com.clipboardmanager.app-lifecycle-runtime-release-22 C:\Users\sorx\.gradle\caches\8.13\transforms\470b6c4e1b1fdf425c3ca90fd002b761\transformed\lifecycle-runtime-release\res
+com.clipboardmanager.app-material-icons-core-release-23 C:\Users\sorx\.gradle\caches\8.13\transforms\4803f7eb008339677308114bcaa0faae\transformed\material-icons-core-release\res
+com.clipboardmanager.app-lifecycle-livedata-core-2.9.0-24 C:\Users\sorx\.gradle\caches\8.13\transforms\518dc451d75091922eb12e2203cc5f77\transformed\lifecycle-livedata-core-2.9.0\res
+com.clipboardmanager.app-material-icons-extended-release-25 C:\Users\sorx\.gradle\caches\8.13\transforms\545a58f2870c13a72419e194c39a6c1d\transformed\material-icons-extended-release\res
+com.clipboardmanager.app-sqlite-framework-release-26 C:\Users\sorx\.gradle\caches\8.13\transforms\55fef229d14e691a7ffdc9b01ec7e69b\transformed\sqlite-framework-release\res
+com.clipboardmanager.app-datastore-release-27 C:\Users\sorx\.gradle\caches\8.13\transforms\57db2522c58881a74be4a1e65be7048a\transformed\datastore-release\res
+com.clipboardmanager.app-ui-tooling-preview-release-28 C:\Users\sorx\.gradle\caches\8.13\transforms\5f49c088aff621cf99571961c46bb438\transformed\ui-tooling-preview-release\res
+com.clipboardmanager.app-savedstate-ktx-1.3.0-29 C:\Users\sorx\.gradle\caches\8.13\transforms\644cc5fac99a626569d6a7f6ce4ff324\transformed\savedstate-ktx-1.3.0\res
+com.clipboardmanager.app-ui-text-release-30 C:\Users\sorx\.gradle\caches\8.13\transforms\6876228687a1cf2366ed765c3971ae4a\transformed\ui-text-release\res
+com.clipboardmanager.app-foundation-release-31 C:\Users\sorx\.gradle\caches\8.13\transforms\7f75833e3db92743d55d7fe9e8fbf9f8\transformed\foundation-release\res
+com.clipboardmanager.app-activity-compose-1.10.1-32 C:\Users\sorx\.gradle\caches\8.13\transforms\861fcd0466320614166fa4bcc96403fb\transformed\activity-compose-1.10.1\res
+com.clipboardmanager.app-animation-core-release-33 C:\Users\sorx\.gradle\caches\8.13\transforms\950c57641364ff1bf0edfbfe9f3a2a63\transformed\animation-core-release\res
+com.clipboardmanager.app-lifecycle-viewmodel-compose-release-34 C:\Users\sorx\.gradle\caches\8.13\transforms\9c1a481114e0b041bb78b17add57e094\transformed\lifecycle-viewmodel-compose-release\res
+com.clipboardmanager.app-ui-geometry-release-35 C:\Users\sorx\.gradle\caches\8.13\transforms\a4101acd18e2eef44afdc3a8215690d5\transformed\ui-geometry-release\res
+com.clipboardmanager.app-ui-test-manifest-1.8.1-36 C:\Users\sorx\.gradle\caches\8.13\transforms\af30ed358c970f5777020098d93785c6\transformed\ui-test-manifest-1.8.1\res
+com.clipboardmanager.app-lifecycle-viewmodel-savedstate-release-37 C:\Users\sorx\.gradle\caches\8.13\transforms\afa49620b8f3f9d7947cd318c1946601\transformed\lifecycle-viewmodel-savedstate-release\res
+com.clipboardmanager.app-material-ripple-release-38 C:\Users\sorx\.gradle\caches\8.13\transforms\b1a65d72451eb5eaa03ff7494a51ede0\transformed\material-ripple-release\res
+com.clipboardmanager.app-graphics-path-1.0.1-39 C:\Users\sorx\.gradle\caches\8.13\transforms\b5181355c01d5ad18972fc79dbba0a3c\transformed\graphics-path-1.0.1\res
+com.clipboardmanager.app-datastore-preferences-core-release-40 C:\Users\sorx\.gradle\caches\8.13\transforms\be49ea96c3b90055fd1519c302ec192a\transformed\datastore-preferences-core-release\res
+com.clipboardmanager.app-sqlite-release-41 C:\Users\sorx\.gradle\caches\8.13\transforms\c046eb51b21754d78f9fcd387ddc9f8c\transformed\sqlite-release\res
+com.clipboardmanager.app-core-viewtree-1.0.0-42 C:\Users\sorx\.gradle\caches\8.13\transforms\c3c7ab980849eebce900d14938eaa191\transformed\core-viewtree-1.0.0\res
+com.clipboardmanager.app-savedstate-release-43 C:\Users\sorx\.gradle\caches\8.13\transforms\c54af80234411630cb709387febd6144\transformed\savedstate-release\res
+com.clipboardmanager.app-foundation-layout-release-44 C:\Users\sorx\.gradle\caches\8.13\transforms\c7321cad67aa843cfc8033b2110c9925\transformed\foundation-layout-release\res
+com.clipboardmanager.app-core-runtime-2.2.0-45 C:\Users\sorx\.gradle\caches\8.13\transforms\cb993d2763387a1056a336fbec74ffd7\transformed\core-runtime-2.2.0\res
+com.clipboardmanager.app-core-ktx-1.16.0-46 C:\Users\sorx\.gradle\caches\8.13\transforms\d0acbc8a187a10d2426408afcf5c6d34\transformed\core-ktx-1.16.0\res
+com.clipboardmanager.app-ui-graphics-release-47 C:\Users\sorx\.gradle\caches\8.13\transforms\d95d1331ee7a5a8fa11cc925f97eaf9f\transformed\ui-graphics-release\res
+com.clipboardmanager.app-annotation-experimental-1.4.1-48 C:\Users\sorx\.gradle\caches\8.13\transforms\df89936f63d2c61906826574f6fc1b5c\transformed\annotation-experimental-1.4.1\res
+com.clipboardmanager.app-ui-unit-release-49 C:\Users\sorx\.gradle\caches\8.13\transforms\e25b5a89a845846908e52ddb4599c5a8\transformed\ui-unit-release\res
+com.clipboardmanager.app-room-ktx-2.7.1-50 C:\Users\sorx\.gradle\caches\8.13\transforms\ef11fee3c28d1d00cab7ae08a38447b6\transformed\room-ktx-2.7.1\res
+com.clipboardmanager.app-material-release-51 C:\Users\sorx\.gradle\caches\8.13\transforms\f41a5f8e3f60e5635304972968e192de\transformed\material-release\res
+com.clipboardmanager.app-room-runtime-release-52 C:\Users\sorx\.gradle\caches\8.13\transforms\fd65a35a5baac2ffba5a24edbd3583a3\transformed\room-runtime-release\res
+com.clipboardmanager.app-pngs-53 C:\Users\sorx\Desktop\clipboard management\app\build\generated\res\pngs\debug
+com.clipboardmanager.app-resValues-54 C:\Users\sorx\Desktop\clipboard management\app\build\generated\res\resValues\debug
+com.clipboardmanager.app-packageDebugResources-55 C:\Users\sorx\Desktop\clipboard management\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.clipboardmanager.app-packageDebugResources-56 C:\Users\sorx\Desktop\clipboard management\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.clipboardmanager.app-debug-57 C:\Users\sorx\Desktop\clipboard management\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.clipboardmanager.app-debug-58 C:\Users\sorx\Desktop\clipboard management\app\src\debug\res
+com.clipboardmanager.app-main-59 C:\Users\sorx\Desktop\clipboard management\app\src\main\res

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.clipboardmanager.app.ui.ClipFilterAndViewModelTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-11-25T08:15:53.772Z" hostname="THEROX" time="0.22">
+  <properties/>
+  <testcase name="viewModel supports creating checklist, locking with PIN, unlocking, and undo delete" classname="com.clipboardmanager.app.ui.ClipFilterAndViewModelTest" time="0.202"/>
+  <testcase name="filterAndSortClips filters by category, time chip, length, and locked search privacy" classname="com.clipboardmanager.app.ui.ClipFilterAndViewModelTest" time="0.001"/>
+  <testcase name="repository deduplicates clips and detects links" classname="com.clipboardmanager.app.ui.ClipFilterAndViewModelTest" time="0.006"/>
+  <testcase name="repository seeds initial samples once and exports-imports backup" classname="com.clipboardmanager.app.ui.ClipFilterAndViewModelTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

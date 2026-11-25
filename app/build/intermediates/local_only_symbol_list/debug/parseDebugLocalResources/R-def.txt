@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_tile_clipboard
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string monitor_channel_desc
+string monitor_channel_name
+string save_to_clipboard
+string tile_label
+style Theme.ClipboardManager
+style Theme.ClipboardManager.Transparent
